@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <img id="img" class="object-center w-60 md:w-32 lg:w-48" alt="Vue logo" src="./assets/me.jpg">
+    <HelloWorld msg=""/>
   </div>
 </template>
 
@@ -17,6 +17,14 @@ export default {
 </script>
 
 <style>
+
+#img {
+  margin-top: 60px;
+  position: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
