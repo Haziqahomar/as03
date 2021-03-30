@@ -7,7 +7,7 @@
       <p class="text-center font-sans  text-red-400 md:text-red-800 ...">19FTT1204</p>
       <p class="text-center font-sans  text-red-400 md:text-red-800 ...">DWDT05</p>
       <br>
-      <p class="text-center font-serif  text-gray-500 md:text-gray-800 ...">"THE GREATEST GLORY IN LIVING LIES NOT IN NEVER FALLING, BUT IN RISING EVERY TIME WE FALL"</p>
+      <p class="text-center font-serif  text-gray-500 md:text-gray-800 ...">"THE GREATEST GLORY IN LIVING LIES NOT IN NEVER FALLING, BUT IN RISING EVERY TIME WE FALL."</p>
    </h3>
 
      
